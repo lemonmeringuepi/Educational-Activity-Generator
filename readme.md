@@ -13,12 +13,12 @@ A random message generator for use with node.js, geared towards toddlers and the
 
 This program uses the Date object and Math.random to print the following to the console:
 
-- The current date
-- The day of the week
-- The number of the day
-- The letter of the day
-- The animal of the day
-- A random activity
+* The current date
+* The day of the week
+* The letter of the day
+* The animal of the day
+* The number of the day
+* A random activity
 
 At the time of creation, I have a two-and-a-half-year-old, so activities will be geared towards that age range.
 
@@ -40,10 +40,16 @@ Terminal is not native to Windows. I recommend using [Git Bash For Windows](http
 Within Terminal, navigate to the directory you saved main.js in. Then, just use node.js to execute the file.
 
 ```bash
-node main.js
+node main.js your-name
 ```
 
 Read the messages with your child, make noises together, and have fun doing the included activity. If you aren't too keen on a specific activity, they are randomly generated from a list-- just rerun the program and it will suggest another one.
+
+### Output
+
+![output image](./sample_output.png)
+
+The output shall display "HELLO, FRIEND!" if any name is not specified.
 
 ## Sources
 
