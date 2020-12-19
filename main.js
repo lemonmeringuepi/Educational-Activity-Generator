@@ -508,8 +508,13 @@ const activities = ['Make an evacuation plan in case of a fire. Teach your child
 let activity = activities[getRandom(activities.length)];
 
 // Parsing name from the console
-const args = process.argv.slice(2);
-
+let args = process.argv.slice(2);
+if (args.length === 0) {
+    args = ['friend'];
+}
+args = args.map(arg => {
+    return arg.toUpperCase();
+})
 
 //Begin console output:
 console.log('\n');
