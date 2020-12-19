@@ -50,3 +50,5 @@ Read the messages with your child, make noises together, and have fun doing the 
 This project is the first [Codecademy](https://www.codecademy.com) portfolio project for the Back End Engineer career path.
 
 The random activities used in this program are from the Maryland Day by Day family literacy activity calendar, distributed by the [Maryland State Library](https://www.marylandlibraries.org/Pages/Maryland%20Libraries%20Home.aspx). Before Covid, my child and I spent the majority of our time in Baltimore's Enoch Pratt libraries. They are an invaluable resource to everyone-- especially young families. To keep this resource available for generations to come, support your local library.
+
+The ASCII letters and numbers were done by me. ASCII animal art came from [The ASCII Art Archive](https://www.asciiart.eu/).
